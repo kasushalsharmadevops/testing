@@ -158,7 +158,7 @@ public class WordCount {
 
     /** Method to choose a file using a window.
      * @return the file chosen by the user. Returns null if no file picked.
-     */
+     */// //
     private static File getFile() {
         // create a GUI window to pick the text to evaluate
         JFileChooser chooser = new JFileChooser(".");
