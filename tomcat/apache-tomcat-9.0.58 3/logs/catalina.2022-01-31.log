@@ -1,0 +1,89 @@
+31-Jan-2022 17:42:12.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.58
+31-Jan-2022 17:42:12.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 15 2022 14:37:38 UTC
+31-Jan-2022 17:42:12.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.58.0
+31-Jan-2022 17:42:12.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+31-Jan-2022 17:42:12.716 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            12.1
+31-Jan-2022 17:42:12.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+31-Jan-2022 17:42:12.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home
+31-Jan-2022 17:42:12.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+31-Jan-2022 17:42:12.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+31-Jan-2022 17:42:12.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3
+31-Jan-2022 17:42:12.717 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/conf/logging.properties
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Jan-2022 17:42:12.763 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Jan-2022 17:42:12.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+31-Jan-2022 17:42:12.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+31-Jan-2022 17:42:12.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3
+31-Jan-2022 17:42:12.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3
+31-Jan-2022 17:42:12.764 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/temp
+31-Jan-2022 17:42:12.766 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/kaushalsharma/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+31-Jan-2022 17:42:12.890 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Jan-2022 17:42:12.924 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [296] milliseconds
+31-Jan-2022 17:42:12.940 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jan-2022 17:42:12.940 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.58]
+31-Jan-2022 17:42:12.943 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/docs]
+31-Jan-2022 17:42:13.042 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/docs] has finished in [98] ms
+31-Jan-2022 17:42:13.042 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/manager]
+31-Jan-2022 17:42:13.058 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/manager] has finished in [15] ms
+31-Jan-2022 17:42:13.058 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/examples]
+31-Jan-2022 17:42:13.155 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/examples] has finished in [97] ms
+31-Jan-2022 17:42:13.155 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/ROOT]
+31-Jan-2022 17:42:13.164 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/ROOT] has finished in [9] ms
+31-Jan-2022 17:42:13.164 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/host-manager]
+31-Jan-2022 17:42:13.172 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/host-manager] has finished in [8] ms
+31-Jan-2022 17:42:13.174 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+31-Jan-2022 17:42:13.179 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [255] milliseconds
+31-Jan-2022 17:49:14.912 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+31-Jan-2022 17:49:14.913 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+31-Jan-2022 17:49:14.914 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+31-Jan-2022 17:49:14.923 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+31-Jan-2022 17:49:14.925 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+31-Jan-2022 17:51:31.041 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.58
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 15 2022 14:37:38 UTC
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.58.0
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            12.1
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3
+31-Jan-2022 17:51:31.043 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/conf/logging.properties
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3
+31-Jan-2022 17:51:31.047 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3
+31-Jan-2022 17:51:31.048 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/temp
+31-Jan-2022 17:51:31.050 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/kaushalsharma/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+31-Jan-2022 17:51:31.171 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+31-Jan-2022 17:51:31.184 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [214] milliseconds
+31-Jan-2022 17:51:31.199 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jan-2022 17:51:31.199 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.58]
+31-Jan-2022 17:51:31.202 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/docs]
+31-Jan-2022 17:51:31.303 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/docs] has finished in [101] ms
+31-Jan-2022 17:51:31.304 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/manager]
+31-Jan-2022 17:51:31.322 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/manager] has finished in [18] ms
+31-Jan-2022 17:51:31.322 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/examples]
+31-Jan-2022 17:51:31.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/examples] has finished in [109] ms
+31-Jan-2022 17:51:31.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/ROOT]
+31-Jan-2022 17:51:31.439 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/ROOT] has finished in [8] ms
+31-Jan-2022 17:51:31.439 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/host-manager]
+31-Jan-2022 17:51:31.448 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/kaushalsharma/Desktop/tomcat/apache-tomcat-9.0.58 3/webapps/host-manager] has finished in [9] ms
+31-Jan-2022 17:51:31.449 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+31-Jan-2022 17:51:31.454 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [270] milliseconds
